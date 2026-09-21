@@ -1,7 +1,13 @@
-Hey, I'm Lewis, and this is my GitHub profile. I'm interested in how we can enable computers to take action in the world around us by writing reliable programs that interact with specialized hardware. Currently, I'm an undergraduate engineering student at Tufts University.
+Hey, I'm Lewis, and this is my GitHub profile. I'm a computer engineering student at Tufts University, interested in how we can enable computers to take action in the world around us by writing reliable programs.
 
-I was previously the Programming Lead of the robotics team [FRC 3636](https://frcteam3636.com) "Generals Robotics" during their 2024/2025 season. During that time, I mentored team members to help them learn robotics programming and oversaw development of the software for a [competitive sports robot](https://youtu.be/e5cw4i_LtoA).
+This past summer, I was an embedded software engineering intern at Neuralink, where I worked on the implant's firmware. I built tools for debugging crashes, helped bring up the software for a new chip before its silicon was ready, and improved the test infrastructure around the firmware.
 
-For the past few years, I've worked to create and maintain [vexide](https://vexide.dev), an open-source runtime for VEX V5 branded robots which allows teams to develop their robots in the memory-safe programming language Rust. Part of that has involved porting Rust's standard library to the aforementioned platform and [maintaining a target spec](https://doc.rust-lang.org/nightly/rustc/platform-support/thumbv7a-vex-v5.html) built into the compiler. In 2026, vexide was used by both the world champion university in the VEX Robotics Competition and the runner-up team.
+[<img src="https://vexide.dev/images/logo.svg" height="60" align="right" alt="vexide Logo">](https://vexide.dev)
 
-Recently, I've also developed development tools for robotics teams using vexide, such as [v5gdb](https://github.com/vexide/v5gdb), a debugger backend for the VEX V5 platform. It implements all the things you need to run a program under GDB by interfacing with the ARMv7-A debug architecture. 
+Outside of work, I co-created and now maintain the robotics runtime [vexide](https://vexide.dev) as well as the embedded [`thumbv7a-vex-v5`](https://doc.rust-lang.org/nightly/rustc/platform-support/thumbv7a-vex-v5.html) target built into the Rust programming language. In 2026, both finalist teams at the VEXU World Championship, the university division of the world's largest robotics competition, ran vexide, choosing it over the two established toolchains (VEXcode and PROS). Most recently I've been building [v5gdb](https://github.com/vexide/v5gdb), a debugger that runs on the robot itself.
+
+[<img src="https://raw.githubusercontent.com/FRC3636/.github/refs/heads/main/logo.svg" height="80" align="right" alt="Generals Robotics Star Logo">](https://frcteam3636.com)
+
+Before college, I was the Programming Lead of the robotics team [FRC 3636](https://frcteam3636.com) "Generals Robotics" during their 2024/2025 season. During that time, I mentored team members to help them learn robotics programming and oversaw the development of the software for a [competitive sports robot](https://youtu.be/e5cw4i_LtoA).
+
+For more details about my work, take a look at my [LinkedIn profile](https://www.linkedin.com/in/lewisfm/) or [personal website](https://lewismcclelland.me). If you have a question or would like to get in contact with me, feel free to send me a message either through LinkedIn or using the email address in my profile.
